@@ -28,7 +28,7 @@ Please emphasise on clean code structure and demonstrate good understanding of a
 
 - You do not need to use an external database, you may persist data in memory.
 
-- Appropriate test coverage
+- Please provide appropriate test coverage
 
 ## Bonous objectives
 - Secure the update API to only allow authenticated users. NOTE: You do not need to issue tokens, simply assume the client has already acquired a valid token.
